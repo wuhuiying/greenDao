@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Why2Exercise</string>
+    <string name="btn_zengjia">增加</string>
+    <string name="btn_sel">查询</string>
+    <string name="btn_del">删除</string>
+    <string name="btn_upd">修改</string>
+</resources>
